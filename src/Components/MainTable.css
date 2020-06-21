@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+    color: cadetblue;
+}
+p{
+    text-align: center;
+    color: chocolate;
+}
+h4{
+    text-align: center;
+    color: darkgreen;
+}
+#showbtn{
+    margin-left: 70%;
+}
+#Colomn_Btn{
+    margin-left: 80%;
+    margin-top:-65px;
+}
